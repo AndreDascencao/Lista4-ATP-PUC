@@ -1,27 +1,25 @@
-using System;
-
- class Program
+class exercicio1
 {
-        static int Potencia(int base, int expoente) // Por que eu tenho que declarar o tipo dentro do parâmetro? Devo declarar de novo lá no Main?
+        static int Potencia(int base1, int expoente) //Para chamar o parâmetro no Rodar, escrever mesmos parâmetris
         {
             int resultado = 1;
             for(int i = 0; i <= expoente; i++)
             {
-                resultado *= base;
+                resultado *= base1;
             }
 
             return resultado;
         }
 
-        static void Main() 
+        public static void Rodar() 
         {
-            int base, expoente;
+            int base1, expoente;
             Console.WriteLine("Digite a Base:");
-            base = int.Parse(Console.ReadLine());
+            base1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o expoente:");
             expoente = int.Parse(Console.ReadLine());
 
-            int result = Potencia(resultado);
+            int result = Potencia(base1, expoente);
             Console.WriteLine("O resultado é:"+result);
         }
 }

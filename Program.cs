@@ -15,17 +15,10 @@
         Console.WriteLine("Exercício 8");
         Console.WriteLine("Exercício 9");
         Console.WriteLine("Exercício 10");
-
-       public static void Main(string[] args)
-       {
-        int resp;
-
-        menu();
-        resp = int.Parse(Console.ReadLine());
-
-        if (resp = 1) {
-            return 
-        }
-       }
      }
+       public static void Main()
+       {
+        exercicio1.Rodar();
+       }
+    
  }

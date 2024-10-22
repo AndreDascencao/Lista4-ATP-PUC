@@ -1,0 +1,15 @@
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.AssemblyInfoInputs.cache
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.AssemblyInfo.cs
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.csproj.CoreCompileInputs.cache
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.sourcelink.json
+/workspaces/Lista4-ATP-PUC/bin/Debug/net7.0/Lista 4
+/workspaces/Lista4-ATP-PUC/bin/Debug/net7.0/Lista 4.deps.json
+/workspaces/Lista4-ATP-PUC/bin/Debug/net7.0/Lista 4.runtimeconfig.json
+/workspaces/Lista4-ATP-PUC/bin/Debug/net7.0/Lista 4.dll
+/workspaces/Lista4-ATP-PUC/bin/Debug/net7.0/Lista 4.pdb
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.dll
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/refint/Lista 4.dll
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.pdb
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/Lista 4.genruntimeconfig.cache
+/workspaces/Lista4-ATP-PUC/obj/Debug/net7.0/ref/Lista 4.dll
